@@ -171,7 +171,7 @@ const naeha = {
   
   <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Naeha-S&layout=donut-vertical&theme=radical&bg_color=0D1117&title_color=FF1493&text_color=FFFFFF&hide_border=true" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Naeha-S&hide=html,css&layout=donut-vertical&theme=radical&bg_color=0D1117&title_color=FF1493&text_color=FFFFFF&hide_border=true" width="300"/>
 </div>
 
 <!-- ═══════════════════════ PINK DIVIDER ═══════════════════════ -->
@@ -181,7 +181,7 @@ const naeha = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Naeha-S&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF69B4&text_color=FFFFFF"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=Naeha-S&theme=radical&hide_border=true&background=0D1117&stroke=FF1493&ring=FF1493&fire=FF69B4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF1493&sideLabels=FF69B4&dates=888888"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Naeha-S&theme=radical&hide_border=true&background=0D1117&stroke=FF1493&ring=FF1493&fire=FF69B4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF1493&sideLabels=FF69B4&dates=888888"/>
 </div>
 
 <!-- ═══════════════════════ PINK DIVIDER ═══════════════════════ -->
@@ -200,55 +200,35 @@ const naeha = {
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
 <a href="https://linkedin.com/in/naeha-s">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="150"/>
+  <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
 </a>
-<br/><br/>
-<b>Professional Network</b>
-<br/>
-<sub>Let's connect professionally!</sub>
-</td>
-<td align="center" width="33%">
+&nbsp;&nbsp;
 <a href="mailto:naeha.s.2024.it@rajalakshmi.edu.in">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" width="150"/>
+  <img src="https://img.shields.io/badge/Gmail-FF1493?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
 </a>
-<br/><br/>
-<b>Drop a Message</b>
-<br/>
-<sub>I'd love to hear from you!</sub>
-</td>
-<td align="center" width="33%">
+&nbsp;&nbsp;
 <a href="https://github.com/Naeha-S">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="150"/>
+  <img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" height="35"/>
 </a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/your_handle">
+  <img src="https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white" height="35"/>
+</a>
+
 <br/><br/>
-<b>Check My Work</b>
+<i>"Code is like makeup - it should enhance, not overwhelm."</i>
 <br/>
-<sub>Explore my repositories!</sub>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Code%20is%20like%20makeup%20-%20it%20should%20enhance,%20not%20overwhelm.&author=Naeha" width="70%"/>
+<b>- Naeha</b>
 
 </div>
 
-<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 <br/>
 
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:FF69B4,100:FF00FF&height=120&section=footer"/>
-
-<br/>
-
-**💖 Thanks for stopping by! Have a sparkling day! ✨**
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:FF69B4,100:FF00FF&height=120&section=footer" width="100%"/>
+  <br/>
+  <b>💖 Thanks for stopping by! Have a sparkling day! ✨</b>
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40"/>
 </div>
