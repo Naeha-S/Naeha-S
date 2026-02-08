@@ -13,8 +13,8 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF1493,50:FF69B4,100:FF00FF&height=200&text=✨%20Naeha%20✨&fontSize=70&fontColor=FFFFFF&animation=twinkling&stroke=FF1493&strokeWidth=2" width="100%"/>
 
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=800&color=FF1493&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=Hey+there!+Welcome+to+my+pink+paradise+🌸;Developer+by+day%2C+Designer+by+passion+💖;Turning+caffeine+into+code+since+forever+☕;Building+beautiful+things+for+the+web+✨" alt="Typing SVG" />
+<a href="https://github.com/Naeha-S">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=600&height=50&lines=Hey+there!+Welcome+to+my+pink+paradise+%F0%9F%8C%B8;Developer+by+day%2C+Designer+by+passion+%F0%9F%92%96;Turning+caffeine+into+code+%E2%98%95;Building+beautiful+things+for+the+web+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -83,20 +83,6 @@ const naeha = {
 <!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════ SNAKE ANIMATION ═══════════════════════ -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30"> Watch The Snake Eat My Contributions!
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naeha-S/Naeha-S/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naeha-S/Naeha-S/output/github-contribution-grid-snake.svg" />
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Naeha-S/Naeha-S/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30"> Tech Stack
 
@@ -104,7 +90,7 @@ const naeha = {
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
 
 ### 💻 Languages
 <br/>
@@ -112,37 +98,24 @@ const naeha = {
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java&theme=dark" />
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-### 🚀 Frameworks
+### 🚀 Frameworks & Cloud
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=aws,vercel,supabase&theme=dark" />
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-### 🎨 Design
+### 🎨 Design & Tools
 <br/>
 <img src="https://skillicons.dev/icons?i=ps,ai,figma&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=blender&theme=dark" />
-
-</td>
-<td align="center" width="25%">
-
-### ☁️ Cloud & DB
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,vercel&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=mysql,supabase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=blender,vscode,git&theme=dark" />
 
 </td>
 </tr>
 </table>
-
-### 🔧 Tools I Use Daily
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,notion&theme=dark" />
-</p>
 
 </div>
 
