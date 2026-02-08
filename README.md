@@ -1,175 +1,223 @@
-<div align="center">
-  
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25,27&height=180&section=header&text=Hey%20There!%20I'm%20Naeha%20✨&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Developer%20|%20Designer%20|%20Dreamer&descSize=18&descAlignY=55"/>
+<!-- 
+  ╔═══════════════════════════════════════════════════════════════════════════╗
+  ║                                                                           ║
+  ║   ✨ NAEHA'S PROFILE ✨                                                   ║
+  ║   A vibrant, pink-themed developer portfolio                              ║
+  ║                                                                           ║
+  ╚═══════════════════════════════════════════════════════════════════════════╝
+-->
 
-<!-- Typing Animation -->
+<div align="center">
+
+<!-- ═══════════════════════ ANIMATED HEADER ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF1493,50:FF69B4,100:FF00FF&height=200&text=✨%20Naeha%20✨&fontSize=70&fontColor=FFFFFF&animation=twinkling&stroke=FF1493&strokeWidth=2" width="100%"/>
+
+<!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=🌸+Welcome+to+my+creative+space!;💻+Coding+with+passion+%26+purpose;🎨+Turning+ideas+into+reality;✨+Let's+build+something+amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=800&color=FF1493&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=Hey+there!+Welcome+to+my+pink+paradise+🌸;Developer+by+day%2C+Designer+by+passion+💖;Turning+caffeine+into+code+since+forever+☕;Building+beautiful+things+for+the+web+✨" alt="Typing SVG" />
 </a>
 
-<!-- Profile Views & Social Badges -->
+<br/>
+
+<!-- ═══════════════════════ BADGES ═══════════════════════ -->
 <p>
-  <a href="https://github.com/Naeha-S">
-    <img src="https://komarev.com/ghpvc/?username=Naeha-S&label=Profile%20Views&color=f472b6&style=for-the-badge" alt="Profile Views"/>
-  </a>
+  <img src="https://img.shields.io/badge/🌸_Profile_Views-FF1493?style=for-the-badge&labelColor=1a1a2e" alt="Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Naeha-S&color=FF1493&style=for-the-badge&label="/>
   <a href="https://github.com/Naeha-S?tab=followers">
-    <img src="https://img.shields.io/github/followers/Naeha-S?label=Followers&style=for-the-badge&color=e879f9&logo=github" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/Naeha-S?style=for-the-badge&color=FF69B4&labelColor=1a1a2e&logo=github&label=Followers" alt="Followers"/>
   </a>
-  <a href="https://github.com/Naeha-S?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-Open%20Source-c084fc?style=for-the-badge&logo=github" alt="Open Source"/>
-  </a>
+  <img src="https://img.shields.io/badge/✨_Open_Source_Lover-FF00FF?style=for-the-badge&labelColor=1a1a2e" alt="Open Source"/>
 </p>
 
 </div>
 
----
+<!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🌸 About Me
+<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="30"> About Me
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
+<table>
+<tr>
+<td width="50%">
 
-<p align="left">
+```js
+const naeha = {
+  pronouns: "she/her",
+  location: "India 🇮🇳",
+  education: "IT Student 🎓",
   
-🎓 **IT Student** passionate about building beautiful & functional applications  
-💻 **Core Skills:** HTML, CSS, JavaScript, C  
-🌱 **Currently Learning:** Python, Java, Node.js, React  
-🎨 **Creative Side:** Photoshop, Illustrator, Blender  
-☁️ **Cloud & Tools:** Git, GitHub, AWS, VS Code  
-📊 **Data Explorer:** SQL, Excel, Tableau  
+  code: ["HTML", "CSS", "JavaScript", "C", "Python"],
+  learning: ["React", "Node.js", "Java"],
+  
+  creative: {
+    design: ["Photoshop", "Illustrator", "Figma"],
+    threeD: ["Blender"],
+    video: ["Animate"]
+  },
+  
+  currentFocus: "Building beautiful web experiences ✨",
+  funFact: "I debug with pink sticky notes! 💖"
+};
+```
 
-</p>
+</td>
+<td width="50%">
 
-<br clear="both"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%"/>
 
----
+</td>
+</tr>
+</table>
 
-## 🎮 My GitHub Activity Game
-<p align="center">
-  <img src="assets/space-shooter.gif" alt="Space Shooter Game"/>
-</p>
+<!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
+<!-- ═══════════════════════ SPACE SHOOTER GAME ═══════════════════════ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="30"> My GitHub Activity Game
 
-## 🐍 Watch My Contributions Get Eaten!
+<div align="center">
+  <img src="assets/space-shooter.gif" alt="Space Shooter Game" width="850"/>
+</div>
 
-<p align="center">
+<!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════ SNAKE ANIMATION ═══════════════════════ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30"> Watch The Snake Eat My Contributions!
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naeha-S/Naeha-S/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naeha-S/Naeha-S/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Naeha-S/Naeha-S/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Naeha-S/Naeha-S/output/github-contribution-grid-snake.svg" />
   </picture>
-</p>
+</div>
 
----
+<!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ Tech Stack & Tools
+<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30"> Tech Stack
 
 <div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
 
 ### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,python&theme=dark&perline=7" alt="Languages"/>
-</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java&theme=dark" />
 
-### 🚀 Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express&theme=dark&perline=7" alt="Frameworks"/>
-</p>
+</td>
+<td align="center" width="25%">
 
-### 🗄️ Databases & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,supabase,aws,vercel&theme=dark&perline=7" alt="Databases & Cloud"/>
-</p>
+### 🚀 Frameworks
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
-### 🎨 Design & Creative
-<p>
-  <img src="https://skillicons.dev/icons?i=ps,ai,blender,figma&theme=dark&perline=7" alt="Design Tools"/>
-</p>
+</td>
+<td align="center" width="25%">
 
-### 🔧 Tools & Platforms
+### 🎨 Design
+<br/>
+<img src="https://skillicons.dev/icons?i=ps,ai,figma&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=blender&theme=dark" />
+
+</td>
+<td align="center" width="25%">
+
+### ☁️ Cloud & DB
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,vercel&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=mysql,supabase&theme=dark" />
+
+</td>
+</tr>
+</table>
+
+### 🔧 Tools I Use Daily
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino&theme=dark&perline=7" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,notion&theme=dark" />
 </p>
 
 </div>
 
----
+<!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Stats
+<!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30"> GitHub Stats
 
 <div align="center">
-  
-<a href="https://github.com/Naeha-S">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naeha-S&show_icons=true&theme=radical&bg_color=0D1117&title_color=F472B6&icon_color=E879F9&text_color=C9D1D9&border_color=F472B6&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naeha-S&layout=compact&theme=radical&bg_color=0D1117&title_color=F472B6&text_color=C9D1D9&border_color=F472B6&hide_border=false"/>
-</a>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Naeha-S&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF69B4&text_color=FFFFFF&ring_color=FF1493"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Naeha-S&hide_border=true&background=0D1117&stroke=FF1493&ring=FF1493&fire=FF69B4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF1493&sideLabels=FF69B4&dates=888888"/>
+
+<br/>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naeha-S&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF1493&text_color=FFFFFF"/>
 
 </div>
+
+<!-- ═══════════════════════ ACTIVITY GRAPH ═══════════════════════ -->
+<br/>
 
 <div align="center">
-  
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Naeha-S&theme=radical&background=0D1117&border=F472B6&stroke=F472B6&ring=E879F9&fire=F472B6&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=F472B6&sideLabels=E879F9&dates=C9D1D9" alt="GitHub Streak"/>
-</a>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naeha-S&bg_color=0D1117&color=FF1493&line=FF69B4&point=FFFFFF&area=true&area_color=FF1493&hide_border=true" width="95%"/>
 </div>
 
----
+<!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📈 Activity Graph
+<!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="30"> GitHub Trophies
 
-<a href="https://github.com/Naeha-S">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Naeha-S&bg_color=0D1117&color=F472B6&line=E879F9&point=C084FC&area=true&area_color=F472B6&hide_border=true" alt="Contribution Graph"/>
-</a>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Naeha-S&theme=dracula&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&title_color=FF1493" />
+</div>
 
----
+<!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Naeha-S&theme=radical&no-frame=true&no-bg=false&margin-w=8&margin-h=8&column=7" alt="Trophies"/>
-</p>
-
----
-
-## 🌐 Connect With Me
+<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30"> Let's Connect!
 
 <div align="center">
   
 <a href="https://linkedin.com/in/naeha-s">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:naeha.s.2024.it@rajalakshmi.edu.in">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/Naeha-S">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-FF00FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
----
-
-## � Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
-</p>
-
----
+<!-- ═══════════════════════ QUOTE ═══════════════════════ -->
+<br/>
 
 <div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Code%20is%20like%20makeup%20-%20it%20should%20enhance,%20not%20overwhelm.&author=Naeha" width="70%"/>
+</div>
 
-### 💖 Thanks for visiting! 
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+<br/>
 
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Notepad" width="30"/>
-<em>Every pixel is placed with purpose, every line of code with passion.</em>
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Notepad" width="30"/>
+<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:FF69B4,100:FF00FF&height=120&section=footer"/>
 
-<br/><br/>
+<br/>
 
-<!-- Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25,27&height=120&section=footer"/>
+**💖 Thanks for stopping by! Have a sparkling day! ✨**
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40"/>
 
 </div>
