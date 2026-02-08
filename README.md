@@ -1,6 +1,10 @@
 # 💫 About Me:
 💻 Core Programming:     HTML, CSS, JavaScript, C  <br>🔰 Beginner Dev:         Python, Java, Node.js, React  <br>🎨 Design Tools:         Photoshop, Illustrator, Animate  <br>🧠 3D & Visuals:         Blender (modeling, texturing, rendering)  <br>📊 Data Tools:           MS Excel, MS Access, SQL, Tableau (beginner)  <br>☁️ Cloud & Platforms:    Git, GitHub, AWS (beginner), VS Code  <br>
 
+# 🎮 My GitHub Activity Game
+<p align="center">
+  <img src="assets/space-shooter.gif" />
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naeha-s) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naeha.s.2024.it@rajalakshmi.edu.in) 
