@@ -9,8 +9,8 @@
 
 <div align="center">
 
-<!-- ═══════════════════════ ANIMATED HEADER ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF1493,50:FF69B4,100:FF00FF&height=200&text=✨%20Naeha%20✨&fontSize=70&fontColor=FFFFFF&animation=twinkling&stroke=FF1493&strokeWidth=2" width="100%"/>
+<!-- ═══════════════════════ WELCOME BANNER ═══════════════════════ -->
+<img src="assets/images/welcome-banner.png" width="100%"/>
 
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
 <a href="https://github.com/Naeha-S">
@@ -70,6 +70,11 @@ const naeha = {
 </tr>
 </table>
 
+<!-- ═══════════════════════ CODER GIRL BANNER ═══════════════════════ -->
+<div align="center">
+  <img src="assets/images/coder-girl.png" width="80%"/>
+</div>
+
 <!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -110,6 +115,11 @@ const naeha = {
 
 <div align="center">
   <img src="https://quickchart.io/chart?c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27Frontend%27%2C%27Backend%27%2C%27Design%27%2C%27Database%27%2C%27DevOps%27%2C%273D%20Modeling%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Skill%20Level%27%2Cdata%3A%5B90%2C70%2C95%2C75%2C60%2C85%5D%2CbackgroundColor%3A%27rgba(255%2C20%2C147%2C0.2)%27%2CborderColor%3A%27rgb(255%2C20%2C147)%27%2CpointBackgroundColor%3A%27rgb(255%2C105%2C180)%27%7D%5D%7D%2Coptions%3A%7Bscale%3A%7BpointLabels%3A%7BfontColor%3A%27%23FF69B4%27%7D%7D%7D%7D" alt="Skills Radar Chart" width="450"/>
+</div>
+
+<!-- ═══════════════════════ HACKER GIRL BANNER ═══════════════════════ -->
+<div align="center">
+  <img src="assets/images/hacker-girl.png" width="80%"/>
 </div>
 
 <!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
