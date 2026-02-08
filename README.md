@@ -10,7 +10,7 @@
 <div align="center">
 
 <!-- ═══════════════════════ ANIMATED HEADER ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF1493,50:FF69B4,100:FF00FF&height=200&text=✨%20Naeha%20✨&fontSize=70&fontColor=FFFFFF&animation=twinkling&stroke=FF1493&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF1493,50:FF69B4,100:FF00FF&height=200&text=✨%20Naeha%20S%20✨&fontSize=65&fontColor=FFFFFF&animation=twinkling&stroke=FF1493&strokeWidth=2" width="100%"/>
 
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
 <a href="https://github.com/Naeha-S">
@@ -40,24 +40,24 @@
 <tr>
 <td width="55%">
 
-```js
-const naeha = {
-  pronouns: "she/her",
-  location: "India 🇮🇳",
-  education: "IT Student 🎓",
-  
-  code: ["HTML", "CSS", "JavaScript", "C", "Python"],
-  learning: ["React", "Node.js", "Java"],
-  
-  creative: {
-    design: ["Photoshop", "Illustrator", "Figma"],
-    threeD: ["Blender"],
-    video: ["Animate"]
-  },
-  
-  currentFocus: "Building beautiful web experiences ✨",
-  funFact: "I debug with pink sticky notes! 💖"
-};
+```diff
++ const naeha = {
++   pronouns: "she/her",
++   location: "India 🇮🇳",
++   education: "IT Student 🎓",
++   
++   code: ["HTML", "CSS", "JavaScript", "C", "Python"],
++   learning: ["React", "Node.js", "Java"],
++   
++   creative: {
++     design: ["Photoshop", "Illustrator", "Figma"],
++     threeD: ["Blender"],
++     video: ["Animate"]
++   },
++   
++   currentFocus: "Building beautiful web experiences ✨",
++   funFact: "I debug with pink sticky notes! 💖"
++ };
 ```
 
 </td>
@@ -162,10 +162,10 @@ const naeha = {
 <!-- ═══════════════════════ PINK DIVIDER ═══════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=2" width="100%"/>
 
-## 📊 Skills Heatmap
+## 📊 My Contributions
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naeha-S&bg_color=0D1117&color=FF1493&line=FF69B4&point=FFFFFF&area=true&area_color=FF1493&hide_border=true&custom_title=💖%20My%20Contribution%20Heatmap" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naeha-S&bg_color=0D1117&color=FF1493&line=FF69B4&point=FFFFFF&area=true&area_color=FF1493&hide_border=true" width="95%"/>
   
   <br/><br/>
   
