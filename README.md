@@ -83,6 +83,38 @@ const naeha = {
 <!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<!-- ═══════════════════════ SPOTIFY NOW PLAYING ═══════════════════════ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Musical%20Notes.png" width="30"> Currently Vibing To
+
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31l4n3wjwyrhny6gvwlf74vwrqwq&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31l4n3wjwyrhny6gvwlf74vwrqwq&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=FF1493&bar_color_cover=true" alt="Spotify Now Playing" width="400"/>
+  </a>
+</div>
+
+<!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════ WAKATIME STATS ═══════════════════════ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Alarm%20Clock.png" width="30"> Weekly Coding Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=naeha&layout=compact&theme=radical&bg_color=0D1117&title_color=FF1493&text_color=FFFFFF&hide_border=true&langs_count=6&custom_title=⏱️%20Time%20Spent%20This%20Week" width="500"/>
+</div>
+
+<!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════ SKILLS RADAR ═══════════════════════ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30"> Skills Breakdown
+
+<div align="center">
+  <img src="https://quickchart.io/chart?c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27Frontend%27%2C%27Backend%27%2C%27Design%27%2C%27Database%27%2C%27DevOps%27%2C%273D%20Modeling%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Skill%20Level%27%2Cdata%3A%5B90%2C70%2C95%2C75%2C60%2C85%5D%2CbackgroundColor%3A%27rgba(255%2C20%2C147%2C0.2)%27%2CborderColor%3A%27rgb(255%2C20%2C147)%27%2CpointBackgroundColor%3A%27rgb(255%2C105%2C180)%27%7D%5D%7D%2Coptions%3A%7Bscale%3A%7BpointLabels%3A%7BfontColor%3A%27%23FF69B4%27%7D%7D%7D%7D" alt="Skills Radar Chart" width="450"/>
+</div>
+
+<!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30"> Tech Stack
 
