@@ -34,8 +34,7 @@
 <!-- ═══════════════════════ PINK DIVIDER ═══════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=2" width="100%"/>
 
-<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
-<h2><img src="https://img.shields.io/badge/💖_About_Me-FF1493?style=for-the-badge&logoColor=white"/></h2>
+## 💖 About Me
 
 <table>
 <tr>
@@ -64,7 +63,7 @@ const naeha = {
 </td>
 <td width="45%" align="center" valign="middle">
 
-<img src="assets/images/coder-girl.png" width="350" style="border-radius: 15px;"/>
+<img src="assets/images/coder-girl.png" width="320"/>
 
 </td>
 </tr>
@@ -73,38 +72,77 @@ const naeha = {
 <!-- ═══════════════════════ PINK DIVIDER ═══════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=2" width="100%"/>
 
-<!-- ═══════════════════════ TECH STACK (MOVED UP) ═══════════════════════ -->
-<h2><img src="https://img.shields.io/badge/💻_Tech_Stack-FF1493?style=for-the-badge&logoColor=white"/></h2>
+## 💻 Tech Stack
 
+<!-- BENTO GRID LAYOUT -->
 <div align="center">
 
-### 🎀 Languages I Speak
+<table>
+<tr>
+<td align="center" width="25%" style="padding: 20px;">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,c,cpp&theme=dark&perline=8" />
+### 🎀 Languages
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,python&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=java,c,cpp&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
 
-### 🚀 Frameworks & Libraries
+</td>
+<td align="center" width="25%">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap&theme=dark&perline=6" />
+### 🚀 Frontend
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=sass,vite&theme=dark" />
 
-### ☁️ Cloud & Databases
+</td>
+<td align="center" width="25%">
 
-<img src="https://skillicons.dev/icons?i=aws,vercel,firebase,supabase,mongodb,mysql&theme=dark&perline=6" />
+### ⚙️ Backend & DB
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=firebase,supabase&theme=dark" />
 
-### 🎨 Design & Creative Tools
+</td>
+<td align="center" width="25%">
 
-<img src="https://skillicons.dev/icons?i=ps,ai,figma,blender,ae,pr&theme=dark&perline=6" />
+### 🎨 Design
+<br/>
+<img src="https://skillicons.dev/icons?i=figma,ps&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=ai,blender&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=ae,pr&theme=dark" />
 
-### 🛠️ Dev Tools
+</td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,npm,vite,linux&theme=dark&perline=6" />
+<br/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,docker,linux,bash&theme=dark&perline=6" />
+
+</td>
+<td align="center" width="50%">
+
+### 🛠️ Tools & Workflow
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,notion&theme=dark&perline=6" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <!-- ═══════════════════════ PINK DIVIDER ═══════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=2" width="100%"/>
 
-<!-- ═══════════════════════ SPACE SHOOTER GAME (MOVED DOWN) ═══════════════════════ -->
-<h2><img src="https://img.shields.io/badge/🎮_GitHub_Activity_Game-FF1493?style=for-the-badge&logoColor=white"/></h2>
+## 🎮 My GitHub Activity Game
 
 <div align="center">
   <img src="./assets/space-shooter.gif" alt="Space Shooter Game" width="850"/>
@@ -115,122 +153,91 @@ const naeha = {
 <!-- ═══════════════════════ PINK DIVIDER ═══════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=2" width="100%"/>
 
-<!-- ═══════════════════════ KAWAII MUSIC PLAYER ═══════════════════════ -->
-<h2><img src="https://img.shields.io/badge/🎵_Vibe_Check-FF1493?style=for-the-badge&logoColor=white"/></h2>
-
-<div align="center">
-  
-```
-╔══════════════════════════════════════════════════════════════╗
-║  🎀 NOW PLAYING                                              ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  ♪ Lofi Girl - Cozy Winter                                   ║
-║  ══════════════●───────────────────  1:23 / 3:45             ║
-║                                                              ║
-║        ◄◄    ▐▐     ►►    🔀    🔁    💖                     ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<i>✨ Coding with good vibes only! ✨</i>
-
-</div>
-
-<!-- ═══════════════════════ PINK DIVIDER ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=2" width="100%"/>
-
-<!-- ═══════════════════════ WAKATIME STATS ═══════════════════════ -->
-<h2><img src="https://img.shields.io/badge/⏱️_Coding_Activity-FF1493?style=for-the-badge&logoColor=white"/></h2>
+## ⏱️ Coding Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=naeha&layout=compact&theme=radical&bg_color=0D1117&title_color=FF1493&text_color=FFFFFF&hide_border=true&langs_count=8" width="500"/>
-  <br/><br/>
-  <i>💡 Stats update every 24 hours after WakaTime setup</i>
 </div>
 
 <!-- ═══════════════════════ PINK DIVIDER ═══════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=2" width="100%"/>
 
-<!-- ═══════════════════════ SKILLS HEATMAP ═══════════════════════ -->
-<h2><img src="https://img.shields.io/badge/📊_Skills_Breakdown-FF1493?style=for-the-badge&logoColor=white"/></h2>
+## 📊 Skills Heatmap
 
 <div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-```
-🎨 DESIGN          ████████████████████  95%
-💻 FRONTEND        ██████████████████░░  90%
-🎮 3D MODELING     █████████████████░░░  85%
-🗄️ DATABASE        ███████████████░░░░░  75%
-⚙️ BACKEND         ██████████████░░░░░░  70%
-🚀 DEVOPS          ████████████░░░░░░░░  60%
-```
-
-</td>
-<td align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naeha-S&layout=donut&theme=radical&bg_color=0D1117&title_color=FF1493&text_color=FFFFFF&hide_border=true" width="300"/>
-</td>
-</tr>
-</table>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naeha-S&bg_color=0D1117&color=FF1493&line=FF69B4&point=FFFFFF&area=true&area_color=FF1493&hide_border=true&custom_title=💖%20My%20Contribution%20Heatmap" width="95%"/>
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naeha-S&layout=donut-vertical&theme=radical&bg_color=0D1117&title_color=FF1493&text_color=FFFFFF&hide_border=true" width="300"/>
 </div>
 
 <!-- ═══════════════════════ PINK DIVIDER ═══════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=2" width="100%"/>
 
-<!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
-<h2><img src="https://img.shields.io/badge/📈_GitHub_Stats-FF1493?style=for-the-badge&logoColor=white"/></h2>
+## 📈 GitHub Stats
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Naeha-S&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF69B4&text_color=FFFFFF"/>
 <img width="49%" src="https://streak-stats.demolab.com?user=Naeha-S&theme=radical&hide_border=true&background=0D1117&stroke=FF1493&ring=FF1493&fire=FF69B4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF1493&sideLabels=FF69B4&dates=888888"/>
 
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Naeha-S&bg_color=0D1117&color=FF1493&line=FF69B4&point=FFFFFF&area=true&area_color=FF1493&hide_border=true"/>
-
 </div>
 
 <!-- ═══════════════════════ PINK DIVIDER ═══════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=2" width="100%"/>
 
-<!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
-<h2><img src="https://img.shields.io/badge/🏆_Achievements-FF1493?style=for-the-badge&logoColor=white"/></h2>
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Naeha-S&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4&row=2" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Naeha-S&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" alt="Trophy"/>
+  </a>
 </div>
 
 <!-- ═══════════════════════ PINK DIVIDER ═══════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=2" width="100%"/>
 
-<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
-<h2><img src="https://img.shields.io/badge/🤝_Let's_Connect-FF1493?style=for-the-badge&logoColor=white"/></h2>
+## 🌸 Let's Connect
 
 <div align="center">
-  
+
+<table>
+<tr>
+<td align="center" width="33%">
 <a href="https://linkedin.com/in/naeha-s">
-  <img src="https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="150"/>
 </a>
+<br/><br/>
+<b>Professional Network</b>
+<br/>
+<sub>Let's connect professionally!</sub>
+</td>
+<td align="center" width="33%">
 <a href="mailto:naeha.s.2024.it@rajalakshmi.edu.in">
-  <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" width="150"/>
 </a>
+<br/><br/>
+<b>Drop a Message</b>
+<br/>
+<sub>I'd love to hear from you!</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://github.com/Naeha-S">
-  <img src="https://img.shields.io/badge/GitHub-FF00FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="150"/>
 </a>
+<br/><br/>
+<b>Check My Work</b>
+<br/>
+<sub>Explore my repositories!</sub>
+</td>
+</tr>
+</table>
 
-</div>
-
-<!-- ═══════════════════════ QUOTE ═══════════════════════ -->
 <br/>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Code%20is%20like%20makeup%20-%20it%20should%20enhance,%20not%20overwhelm.&author=Naeha" width="70%"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Code%20is%20like%20makeup%20-%20it%20should%20enhance,%20not%20overwhelm.&author=Naeha" width="70%"/>
+
 </div>
 
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
