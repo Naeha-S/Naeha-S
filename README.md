@@ -40,24 +40,24 @@
 <tr>
 <td width="55%">
 
-```diff
-+ const naeha = {
-+   pronouns: "she/her",
-+   location: "India 🇮🇳",
-+   education: "IT Student 🎓",
-+   
-+   code: ["HTML", "CSS", "JavaScript", "C", "Python"],
-+   learning: ["React", "Node.js", "Java"],
-+   
-+   creative: {
-+     design: ["Photoshop", "Illustrator", "Figma"],
-+     threeD: ["Blender"],
-+     video: ["Animate"]
-+   },
-+   
-+   currentFocus: "Building beautiful web experiences ✨",
-+   funFact: "I debug with pink sticky notes! 💖"
-+ };
+```js
+const naeha = {
+  pronouns: "she/her",
+  location: "India 🇮🇳",
+  education: "IT Student 🎓",
+  
+  code: ["HTML", "CSS", "JavaScript", "C", "Python"],
+  learning: ["React", "Node.js", "Java"],
+  
+  creative: {
+    design: ["Photoshop", "Illustrator", "Figma"],
+    threeD: ["Blender"],
+    video: ["Animate"]
+  },
+  
+  currentFocus: "Building beautiful web experiences ✨",
+  funFact: "I debug with pink sticky notes! 💖"
+};
 ```
 
 </td>
@@ -190,9 +190,7 @@
 ## 🏆 Achievements
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Naeha-S&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" alt="Trophy"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Naeha-S&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4&row=2" width="100%"/>
 </div>
 
 <!-- ═══════════════════════ PINK DIVIDER ═══════════════════════ -->
