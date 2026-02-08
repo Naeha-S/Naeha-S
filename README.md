@@ -157,6 +157,8 @@ const naeha = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Naeha-S&layout=compact&theme=radical&bg_color=0D1117&title_color=FF1493&text_color=FFFFFF&hide_border=true&langs_count=8" width="500"/>
+  <br/>
+  <i>💡 Make sure your WakaTime profile is set to <b>Public</b> in settings!</i>
 </div>
 
 <!-- ═══════════════════════ PINK DIVIDER ═══════════════════════ -->
@@ -169,7 +171,7 @@ const naeha = {
   
   <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naeha-S&layout=donut-vertical&theme=radical&bg_color=0D1117&title_color=FF1493&text_color=FFFFFF&hide_border=true" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Naeha-S&layout=donut-vertical&theme=radical&bg_color=0D1117&title_color=FF1493&text_color=FFFFFF&hide_border=true" width="300"/>
 </div>
 
 <!-- ═══════════════════════ PINK DIVIDER ═══════════════════════ -->
@@ -188,7 +190,7 @@ const naeha = {
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Naeha-S&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4&row=2" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app?username=Naeha-S&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4&row=2" width="100%"/>
 </div>
 
 <!-- ═══════════════════════ PINK DIVIDER ═══════════════════════ -->
