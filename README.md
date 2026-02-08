@@ -9,8 +9,8 @@
 
 <div align="center">
 
-<!-- ═══════════════════════ WELCOME BANNER ═══════════════════════ -->
-<img src="assets/images/welcome-banner.png" width="100%"/>
+<!-- ═══════════════════════ ANIMATED HEADER ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF1493,50:FF69B4,100:FF00FF&height=200&text=✨%20Naeha%20✨&fontSize=70&fontColor=FFFFFF&animation=twinkling&stroke=FF1493&strokeWidth=2" width="100%"/>
 
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
 <a href="https://github.com/Naeha-S">
@@ -64,16 +64,11 @@ const naeha = {
 </td>
 <td width="50%">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%"/>
+<img src="assets/images/coder-girl.png" width="100%"/>
 
 </td>
 </tr>
 </table>
-
-<!-- ═══════════════════════ CODER GIRL BANNER ═══════════════════════ -->
-<div align="center">
-  <img src="assets/images/coder-girl.png" width="80%"/>
-</div>
 
 <!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -82,7 +77,7 @@ const naeha = {
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="30"> My GitHub Activity Game
 
 <div align="center">
-  <img src="assets/space-shooter.gif" alt="Space Shooter Game" width="850"/>
+  <img src="./assets/space-shooter.gif" alt="Space Shooter Game" width="850"/>
 </div>
 
 <!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
@@ -107,6 +102,11 @@ const naeha = {
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=naeha&layout=compact&theme=radical&bg_color=0D1117&title_color=FF1493&text_color=FFFFFF&hide_border=true&langs_count=6&custom_title=⏱️%20Time%20Spent%20This%20Week" width="500"/>
 </div>
 
+<!-- ═══════════════════════ WELCOME BANNER ═══════════════════════ -->
+<div align="center">
+  <img src="assets/images/welcome-banner.png" width="90%"/>
+</div>
+
 <!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -114,12 +114,16 @@ const naeha = {
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30"> Skills Breakdown
 
 <div align="center">
-  <img src="https://quickchart.io/chart?c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27Frontend%27%2C%27Backend%27%2C%27Design%27%2C%27Database%27%2C%27DevOps%27%2C%273D%20Modeling%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Skill%20Level%27%2Cdata%3A%5B90%2C70%2C95%2C75%2C60%2C85%5D%2CbackgroundColor%3A%27rgba(255%2C20%2C147%2C0.2)%27%2CborderColor%3A%27rgb(255%2C20%2C147)%27%2CpointBackgroundColor%3A%27rgb(255%2C105%2C180)%27%7D%5D%7D%2Coptions%3A%7Bscale%3A%7BpointLabels%3A%7BfontColor%3A%27%23FF69B4%27%7D%7D%7D%7D" alt="Skills Radar Chart" width="450"/>
-</div>
 
-<!-- ═══════════════════════ HACKER GIRL BANNER ═══════════════════════ -->
-<div align="center">
-  <img src="assets/images/hacker-girl.png" width="80%"/>
+| 🎯 Skill | 📊 Proficiency |
+|:---|:---|
+| **Frontend** | ████████████████████ 90% |
+| **Design** | ███████████████████░ 95% |
+| **3D Modeling** | █████████████████░░░ 85% |
+| **Database** | ███████████████░░░░░ 75% |
+| **Backend** | ██████████████░░░░░░ 70% |
+| **DevOps** | ████████████░░░░░░░░ 60% |
+
 </div>
 
 <!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
@@ -161,6 +165,11 @@ const naeha = {
 
 </div>
 
+<!-- ═══════════════════════ HACKER GIRL BANNER ═══════════════════════ -->
+<div align="center">
+  <img src="assets/images/hacker-girl.png" width="90%"/>
+</div>
+
 <!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -169,8 +178,8 @@ const naeha = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Naeha-S&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF69B4&text_color=FFFFFF&ring_color=FF1493"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Naeha-S&hide_border=true&background=0D1117&stroke=FF1493&ring=FF1493&fire=FF69B4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF1493&sideLabels=FF69B4&dates=888888"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Naeha-S&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF69B4&text_color=FFFFFF"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Naeha-S&theme=radical&hide_border=true&background=0D1117&stroke=FF1493&ring=FF1493&fire=FF69B4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF1493&sideLabels=FF69B4&dates=888888"/>
 
 <br/>
 
@@ -192,7 +201,7 @@ const naeha = {
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="30"> GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Naeha-S&theme=dracula&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&title_color=FF1493" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Naeha-S&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" />
 </div>
 
 <!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
