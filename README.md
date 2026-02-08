@@ -165,11 +165,19 @@ const naeha = {
 ## 📊 My Contributions
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naeha-S&bg_color=0D1117&color=FF1493&line=FF69B4&point=FFFFFF&area=true&area_color=FF1493&hide_border=true" width="95%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Naeha-S&bg_color=0D1117&color=FF1493&line=FF69B4&point=FFFFFF&area=true&area_color=FF1493&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Naeha-S&bg_color=ffffff&color=FF1493&line=FF69B4&point=000000&area=true&area_color=FF69B4&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naeha-S&bg_color=0D1117&color=FF1493&line=FF69B4&point=FFFFFF&area=true&area_color=FF1493&hide_border=true" width="95%"/>
+  </picture>
   
   <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naeha-S&layout=donut-vertical&theme=radical&bg_color=0D1117&title_color=FF1493&text_color=FFFFFF&hide_border=true" width="300"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Naeha-S&layout=donut-vertical&theme=radical&bg_color=0D1117&title_color=FF1493&text_color=FFFFFF&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Naeha-S&layout=donut-vertical&theme=flat&bg_color=ffffff&title_color=FF1493&text_color=000000&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naeha-S&layout=donut-vertical&theme=radical&bg_color=0D1117&title_color=FF1493&text_color=FFFFFF&hide_border=true" width="300"/>
+  </picture>
 </div>
 
 <!-- ═══════════════════════ PINK DIVIDER ═══════════════════════ -->
@@ -178,10 +186,16 @@ const naeha = {
 ## 📈 GitHub Stats
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Naeha-S&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF69B4&text_color=FFFFFF"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=Naeha-S&theme=radical&hide_border=true&background=0D1117&stroke=FF1493&ring=FF1493&fire=FF69B4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF1493&sideLabels=FF69B4&dates=888888"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Naeha-S&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF69B4&text_color=FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Naeha-S&show_icons=true&hide_border=true&bg_color=ffffff&title_color=FF1493&icon_color=FF69B4&text_color=000000">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Naeha-S&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF69B4&text_color=FFFFFF"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Naeha-S&theme=radical&hide_border=true&background=0D1117&stroke=FF1493&ring=FF1493&fire=FF69B4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF1493&sideLabels=FF69B4&dates=888888">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Naeha-S&theme=light&hide_border=true&background=ffffff&stroke=FF1493&ring=FF1493&fire=FF69B4&currStreakNum=000000&sideNums=000000&currStreakLabel=FF1493&sideLabels=FF69B4&dates=444444">
+    <img width="49%" src="https://streak-stats.demolab.com?user=Naeha-S&theme=radical&hide_border=true&background=0D1117&stroke=FF1493&ring=FF1493&fire=FF69B4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF1493&sideLabels=FF69B4&dates=888888"/>
+  </picture>
 </div>
 
 <!-- ═══════════════════════ PINK DIVIDER ═══════════════════════ -->
@@ -190,7 +204,11 @@ const naeha = {
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Naeha-S&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4&row=2" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Naeha-S&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4&row=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Naeha-S&theme=flat&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4&row=2">
+    <img src="https://github-profile-trophy.vercel.app/?username=Naeha-S&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4&row=2" width="100%"/>
+  </picture>
 </div>
 
 <!-- ═══════════════════════ PINK DIVIDER ═══════════════════════ -->
