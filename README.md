@@ -102,23 +102,23 @@ Tamil + English, offline-ready. No new data entry needed.
 </tr>
 </table>
 
-<!-- Pinned repo cards — replace with your actual repos -->
+<!-- Repo cards — only shown for public repos -->
 <a href="https://github.com/Naeha-S/chatbridge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naeha-S&repo=chatbridge&theme=radical&bg_color=0D1117&title_color=FF1493&icon_color=FF69B4&text_color=FFFFFF&border_color=FF1493&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naeha-S&repo=chatbridge&theme=radical&bg_color=0D1117&title_color=FF1493&icon_color=FF69B4&text_color=FFFFFF&border_color=FF1493&hide_border=false&show_owner=false" />
 </a>
 &nbsp;
 <a href="https://github.com/Naeha-S/rec-transit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naeha-S&repo=rec-transit&theme=radical&bg_color=0D1117&title_color=FF69B4&icon_color=FF1493&text_color=FFFFFF&border_color=FF69B4&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naeha-S&repo=rec-transit&theme=radical&bg_color=0D1117&title_color=FF69B4&icon_color=FF1493&text_color=FFFFFF&border_color=FF69B4&hide_border=false&show_owner=false" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/Naeha-S/ZPK-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naeha-S&repo=ZPK-&theme=radical&bg_color=0D1117&title_color=FF1493&icon_color=FF69B4&text_color=FFFFFF&border_color=FF1493&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naeha-S&repo=ZPK-&theme=radical&bg_color=0D1117&title_color=FF1493&icon_color=FF69B4&text_color=FFFFFF&border_color=FF1493&hide_border=false&show_owner=false" />
 </a>
 &nbsp;
 <a href="https://github.com/Naeha-S/Dynamic-Key-Folding-Cypher">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naeha-S&repo=Dynamic-Key-Folding-Cypher&theme=radical&bg_color=0D1117&title_color=FF69B4&icon_color=FF1493&text_color=FFFFFF&border_color=FF69B4&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naeha-S&repo=Dynamic-Key-Folding-Cypher&theme=radical&bg_color=0D1117&title_color=FF69B4&icon_color=FF1493&text_color=FFFFFF&border_color=FF69B4&hide_border=false&show_owner=false" />
 </a>
 
 </div>
@@ -378,18 +378,13 @@ comment your move, bot plays back
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Naeha-S&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF69B4&text_color=FFFFFF&ring_color=FF1493"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Naeha-S&theme=radical&hide_border=true&background=0D1117&stroke=FF1493&ring=FF1493&fire=FF69B4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF1493&sideLabels=FF69B4&dates=888888"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Naeha-S&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF69B4&text_color=FFFFFF&count_private=true&rank_icon=github"/>
+&nbsp;
+<img width="48%" src="https://streak-stats.demolab.com?user=Naeha-S&theme=radical&hide_border=true&background=0D1117&stroke=FF1493&ring=FF1493&fire=FF69B4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF1493&sideLabels=FF69B4&dates=888888&mode=weekly"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naeha-S&bg_color=0D1117&color=FF1493&line=FF69B4&point=FFFFFF&area=true&area_color=FF1493&hide_border=true" width="96%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Naeha-S&hide=html,css&layout=donut-vertical&theme=radical&bg_color=0D1117&title_color=FF1493&text_color=FFFFFF&hide_border=true" width="280"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-trophy.vercel.app?username=Naeha-S&theme=radical&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=3&row=2"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Naeha-S&hide=html,css&layout=donut-vertical&theme=radical&bg_color=0D1117&title_color=FF1493&text_color=FFFFFF&hide_border=true&langs_count=8&count_private=true" width="300"/>
 
 </div>
 
