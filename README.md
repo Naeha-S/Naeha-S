@@ -123,6 +123,76 @@ Tamil + English, offline-ready. No new data entry needed.
 
 </div>
 
+<!-- ═══════════════════════ CONTRIBUTIONS & LIVE ARCADE ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=2" width="100%"/>
+
+---
+
+## 📊 contributions & live arcade
+
+<div align="center">
+
+<!-- Crystal clear, high-contrast contribution graph upfront for recruiters -->
+<a href="https://github.com/Naeha-S">
+  <img src="https://ghchart.rshah.org/FF1493/Naeha-S" alt="Naeha's GitHub Contribution Calendar" width="100%"/>
+</a>
+
+<br/><br/>
+
+<!-- Real stats, streaks & top languages -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Naeha-S&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF69B4&text_color=FFFFFF&count_private=true&rank_icon=github"/>
+&nbsp;
+<img width="48%" src="https://streak-stats.demolab.com?user=Naeha-S&theme=radical&hide_border=true&background=0D1117&stroke=FF1493&ring=FF1493&fire=FF69B4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF1493&sideLabels=FF69B4&dates=888888&mode=weekly"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Naeha-S&hide=html,css&layout=donut-vertical&theme=radical&bg_color=0D1117&title_color=FF1493&text_color=FFFFFF&hide_border=true&langs_count=8&count_private=true" width="300"/>
+
+<br/><br/>
+
+### 🕹️ Play My Commit History!
+<p><i>Recruiters & friends: select and launch an interactive arcade game generated directly from my commits:</i></p>
+
+<!-- Game 1: Space Shooter -->
+<details>
+  <summary><b>🚀 Click to Play: Space Shooter (Commits become wave enemies)</b></summary>
+  <br/>
+  <img src="./assets/space-shooter.gif" alt="Space Shooter Game — your commits are the enemies" width="850"/>
+  <br/>
+  <sub>🎮 <b>How it works:</b> GitHub Action extracts my commit history daily and compiles real commit hashes into enemy waves in this retro space shooter!</sub>
+  <br/><br/>
+</details>
+
+<!-- Game 2: Pac-Man -->
+<details>
+  <summary><b>👾 Click to Play: Pac-Man (Chomping through contribution dots)</b></summary>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naeha-S/Naeha-S/output/pacman-contribution-graph-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naeha-S/Naeha-S/output/pacman-contribution-graph.svg"/>
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Naeha-S/Naeha-S/output/pacman-contribution-graph.svg" width="850"/>
+  </picture>
+  <br/>
+  <sub>🍒 <b>How it works:</b> Pac-Man navigating and eating every single commit block on my graph!</sub>
+  <br/><br/>
+</details>
+
+<!-- Game 3: Snake -->
+<details>
+  <summary><b>🐍 Click to Play: Retro Snake (Gliding over the contribution grid)</b></summary>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naeha-S/Naeha-S/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naeha-S/Naeha-S/output/github-snake.svg"/>
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Naeha-S/Naeha-S/output/github-snake.svg" width="850"/>
+  </picture>
+  <br/>
+  <sub>🍎 <b>How it works:</b> Classic Snake game animated across my year of GitHub activity!</sub>
+  <br/><br/>
+</details>
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=2" width="100%"/>
 
 ---
@@ -233,42 +303,6 @@ const naeha = {
 
 ---
 
-## 🎮 the arcade
-
-> *my commit history, but make it entertaining*
-
-<div align="center">
-
-<img src="./assets/space-shooter.gif" alt="Space Shooter — your commits are the enemies" width="860"/>
-<br/>
-<sub>🚀 live-generated from my actual commit history · updates every 24 h</sub>
-
-<br/><br/>
-
-**🐍 snake eats my contributions**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naeha-S/Naeha-S/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naeha-S/Naeha-S/output/github-snake.svg"/>
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Naeha-S/Naeha-S/output/github-snake.svg" width="860"/>
-</picture>
-
-<br/>
-
-**👾 pac-man eats it too**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naeha-S/Naeha-S/output/pacman-contribution-graph-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naeha-S/Naeha-S/output/pacman-contribution-graph.svg"/>
-  <img alt="pac-man contribution graph" src="https://raw.githubusercontent.com/Naeha-S/Naeha-S/output/pacman-contribution-graph.svg" width="860"/>
-</picture>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=2" width="100%"/>
-
----
-
 ## 🧩 play with me
 
 <div align="center">
@@ -367,24 +401,6 @@ comment your move, bot plays back
 
 </tr>
 </table>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=2" width="100%"/>
-
----
-
-## 📊 by the numbers
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Naeha-S&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF69B4&text_color=FFFFFF&count_private=true&rank_icon=github"/>
-&nbsp;
-<img width="48%" src="https://streak-stats.demolab.com?user=Naeha-S&theme=radical&hide_border=true&background=0D1117&stroke=FF1493&ring=FF1493&fire=FF69B4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF1493&sideLabels=FF69B4&dates=888888&mode=weekly"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Naeha-S&hide=html,css&layout=donut-vertical&theme=radical&bg_color=0D1117&title_color=FF1493&text_color=FFFFFF&hide_border=true&langs_count=8&count_private=true" width="300"/>
 
 </div>
 
