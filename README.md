@@ -50,7 +50,7 @@
 
 ---
 
-## 🩷 what I shipped
+## 🩷 What I Shipped
 
 <div align="center">
 
@@ -73,7 +73,7 @@ Context handoff — no copy-paste, no restart.
 </a>
 &nbsp;
 <a href="https://github.com/Naeha-S/chatbridge">
-  <img src="https://img.shields.io/badge/source-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Source-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -90,36 +90,17 @@ Tamil + English, offline-ready. No new data entry needed.
 <br/>
 
 <a href="https://rec-transit.vercel.app">
-  <img src="https://img.shields.io/badge/Open_the_app-FF69B4?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open_the_App-FF69B4?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/Naeha-S/rec-transit">
-  <img src="https://img.shields.io/badge/source-FF1493?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Source-FF1493?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 </tr>
 </table>
-
-<!-- Repo cards — only shown for public repos -->
-<a href="https://github.com/Naeha-S/chatbridge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naeha-S&repo=chatbridge&theme=radical&bg_color=0D1117&title_color=FF1493&icon_color=FF69B4&text_color=FFFFFF&border_color=FF1493&hide_border=false&show_owner=false" />
-</a>
-&nbsp;
-<a href="https://github.com/Naeha-S/rec-transit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naeha-S&repo=rec-transit&theme=radical&bg_color=0D1117&title_color=FF69B4&icon_color=FF1493&text_color=FFFFFF&border_color=FF69B4&hide_border=false&show_owner=false" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Naeha-S/ZPK-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naeha-S&repo=ZPK-&theme=radical&bg_color=0D1117&title_color=FF1493&icon_color=FF69B4&text_color=FFFFFF&border_color=FF1493&hide_border=false&show_owner=false" />
-</a>
-&nbsp;
-<a href="https://github.com/Naeha-S/Dynamic-Key-Folding-Cypher">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naeha-S&repo=Dynamic-Key-Folding-Cypher&theme=radical&bg_color=0D1117&title_color=FF69B4&icon_color=FF1493&text_color=FFFFFF&border_color=FF69B4&hide_border=false&show_owner=false" />
-</a>
 
 </div>
 
@@ -128,7 +109,7 @@ Tamil + English, offline-ready. No new data entry needed.
 
 ---
 
-## 📊 contributions & live arcade
+## 📊 Contributions & Live Arcade
 
 <div align="center">
 
@@ -139,57 +120,51 @@ Tamil + English, offline-ready. No new data entry needed.
 
 <br/><br/>
 
-<!-- Real stats, streaks & top languages -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Naeha-S&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF69B4&text_color=FFFFFF&count_private=true&rank_icon=github"/>
+<!-- Real stats, streaks & top languages (hosted reliably on active endpoints) -->
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Naeha-S&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF69B4&text_color=FFFFFF&count_private=true&rank_icon=github"/>
 &nbsp;
 <img width="48%" src="https://streak-stats.demolab.com?user=Naeha-S&theme=radical&hide_border=true&background=0D1117&stroke=FF1493&ring=FF1493&fire=FF69B4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF1493&sideLabels=FF69B4&dates=888888&mode=weekly"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Naeha-S&hide=html,css&layout=donut-vertical&theme=radical&bg_color=0D1117&title_color=FF1493&text_color=FFFFFF&hide_border=true&langs_count=8&count_private=true" width="300"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Naeha-S&hide=html,css&layout=donut-vertical&theme=radical&bg_color=0D1117&title_color=FF1493&text_color=FFFFFF&hide_border=true&langs_count=8&count_private=true" width="300"/>
 
 <br/><br/>
 
-### 🕹️ Play My Commit History!
-<p><i>Recruiters & friends: select and launch an interactive arcade game generated directly from my commits:</i></p>
+<!-- ═══════════════════════ LIVE ARCADE SHOWCASE ═══════════════════════ -->
+### 🕹️ Real Commits Turned Into Games!
+
+<p>
+  <a href="#space-shooter-game"><img src="https://img.shields.io/badge/🚀_Space_Shooter-Live_GIF-FF1493?style=for-the-badge"/></a>
+  &nbsp;
+  <a href="#pac-man-game"><img src="https://img.shields.io/badge/👾_Pac--Man-Arcade_SVG-FF69B4?style=for-the-badge"/></a>
+  &nbsp;
+  <a href="#snake-game"><img src="https://img.shields.io/badge/🐍_Snake-Contribution_Grid-FF00FF?style=for-the-badge"/></a>
+</p>
 
 <!-- Game 1: Space Shooter -->
-<details>
-  <summary><b>🚀 Click to Play: Space Shooter (Commits become wave enemies)</b></summary>
-  <br/>
-  <img src="./assets/space-shooter.gif" alt="Space Shooter Game — your commits are the enemies" width="850"/>
-  <br/>
-  <sub>🎮 <b>How it works:</b> GitHub Action extracts my commit history daily and compiles real commit hashes into enemy waves in this retro space shooter!</sub>
-  <br/><br/>
-</details>
+<h4 id="space-shooter-game">🚀 Space Shooter (Commits become enemy waves!)</h4>
+<p><i>Live-generated from my actual commit history · compiles automatically every 24 hours</i></p>
+
+<img src="./assets/space-shooter.gif" alt="Space Shooter Game — your commits are the enemies" width="850"/>
+
+<br/><br/>
 
 <!-- Game 2: Pac-Man -->
-<details>
-  <summary><b>👾 Click to Play: Pac-Man (Chomping through contribution dots)</b></summary>
-  <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naeha-S/Naeha-S/output/pacman-contribution-graph-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naeha-S/Naeha-S/output/pacman-contribution-graph.svg"/>
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Naeha-S/Naeha-S/output/pacman-contribution-graph.svg" width="850"/>
-  </picture>
-  <br/>
-  <sub>🍒 <b>How it works:</b> Pac-Man navigating and eating every single commit block on my graph!</sub>
-  <br/><br/>
-</details>
+<h4 id="pac-man-game">👾 Pac-Man (Chomping through my contribution dots!)</h4>
+
+<img src="./assets/pacman.svg" alt="Pac-Man Contribution Graph" width="850"/>
+
+<br/><br/>
 
 <!-- Game 3: Snake -->
-<details>
-  <summary><b>🐍 Click to Play: Retro Snake (Gliding over the contribution grid)</b></summary>
-  <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naeha-S/Naeha-S/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naeha-S/Naeha-S/output/github-snake.svg"/>
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Naeha-S/Naeha-S/output/github-snake.svg" width="850"/>
-  </picture>
-  <br/>
-  <sub>🍎 <b>How it works:</b> Classic Snake game animated across my year of GitHub activity!</sub>
-  <br/><br/>
-</details>
+<h4 id="snake-game">🐍 Retro Snake (Gliding over my contribution history)</h4>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naeha-S/Naeha-S/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naeha-S/Naeha-S/output/github-snake.svg"/>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Naeha-S/Naeha-S/output/github-snake.svg" width="850"/>
+</picture>
 
 </div>
 
@@ -197,7 +172,7 @@ Tamil + English, offline-ready. No new data entry needed.
 
 ---
 
-## 💖 who is naeha
+## 💖 Who Is Naeha
 
 <div align="center">
 
@@ -250,20 +225,70 @@ const naeha = {
 
 ---
 
-## 🗂️ everything I've built
+## 🗂️ My Top Projects
 
 <div align="center">
 
-| project | what it does | stack |
-|---|---|---|
-| 🧠 **[Chatbridge](https://chromewebstore.google.com/detail/chatbridge/baegfhggbncfinpoggngmphjodnppmai)** | AI context handoff — live on Chrome Web Store | TypeScript, Chrome APIs |
-| 📉 **Chatbridge benchmark** | Kaggle benchmark: how much context survives a compression handoff | Python |
-| 🚌 **[REC Transit](https://rec-transit.vercel.app)** | Campus bus tracker — Tamil + English, works offline | TypeScript, Vercel |
-| 🃏 **Shared Table AR** | Snap Spectacles card game in Lens Studio | JavaScript, Lens Studio |
-| 🔐 **[ZPK-](https://github.com/Naeha-S/ZPK-)** | Zero-knowledge proof — prove it's true without revealing the data | Python |
-| 🔑 **[Dynamic-Key-Folding-Cypher](https://github.com/Naeha-S/Dynamic-Key-Folding-Cypher)** | Encryption key derived from the message itself | C |
-| 🌙 **yuna-ai** | TypeScript AI project | TypeScript |
-| ✈️ **plannily** | AI travel planner — demo redeploying | TypeScript |
+<table>
+  <thead>
+    <tr style="border-bottom: 2px solid #FF1493;">
+      <th align="left">Project</th>
+      <th align="left">What It Does</th>
+      <th align="left">Stack</th>
+      <th align="center">Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>🧠 <a href="https://chromewebstore.google.com/detail/chatbridge/baegfhggbncfinpoggngmphjodnppmai">Chatbridge</a></b></td>
+      <td>Carries AI conversation into new tabs without losing context</td>
+      <td><code>TypeScript</code> <code>Chrome APIs</code></td>
+      <td align="center"><img src="https://img.shields.io/badge/Live-FF1493?style=flat-square"/></td>
+    </tr>
+    <tr>
+      <td><b>🚌 <a href="https://rec-transit.vercel.app">REC Transit</a></b></td>
+      <td>Campus bus tracking with Tamil + English support, runs offline</td>
+      <td><code>TypeScript</code> <code>Vercel</code> <code>PWA</code></td>
+      <td align="center"><img src="https://img.shields.io/badge/Deployed-FF69B4?style=flat-square"/></td>
+    </tr>
+    <tr>
+      <td><b>📉 Chatbridge Benchmark</b></td>
+      <td>Kaggle benchmark scoring context survival across compression handoffs</td>
+      <td><code>Python</code> <code>Data Analysis</code></td>
+      <td align="center"><img src="https://img.shields.io/badge/Benchmark-FF00FF?style=flat-square"/></td>
+    </tr>
+    <tr>
+      <td><b>🃏 Shared Table AR</b></td>
+      <td>Snap Spectacles multiplayer card game built in Lens Studio</td>
+      <td><code>JavaScript</code> <code>Lens Studio</code> <code>AR</code></td>
+      <td align="center"><img src="https://img.shields.io/badge/Shipped-FF1493?style=flat-square"/></td>
+    </tr>
+    <tr>
+      <td><b>🔐 <a href="https://github.com/Naeha-S/ZPK-">ZPK-</a></b></td>
+      <td>Zero-Knowledge Proof protocol: prove truth without exposing data</td>
+      <td><code>Python</code> <code>Cryptography</code></td>
+      <td align="center"><img src="https://img.shields.io/badge/Open_Source-FF69B4?style=flat-square"/></td>
+    </tr>
+    <tr>
+      <td><b>🔑 <a href="https://github.com/Naeha-S/Dynamic-Key-Folding-Cypher">Dynamic-Key-Folding-Cypher</a></b></td>
+      <td>Custom encryption cipher deriving dynamic keys from messages</td>
+      <td><code>C</code> <code>Algorithms</code></td>
+      <td align="center"><img src="https://img.shields.io/badge/Open_Source-FF00FF?style=flat-square"/></td>
+    </tr>
+    <tr>
+      <td><b>🌙 yuna-ai</b></td>
+      <td>Autonomous AI assistant and workflow helper</td>
+      <td><code>TypeScript</code> <code>LLMs</code></td>
+      <td align="center"><img src="https://img.shields.io/badge/Active-FF1493?style=flat-square"/></td>
+    </tr>
+    <tr>
+      <td><b>✈️ plannily</b></td>
+      <td>AI-powered personalized travel planner & route creator</td>
+      <td><code>TypeScript</code> <code>Vite</code></td>
+      <td align="center"><img src="https://img.shields.io/badge/Redeploying-999999?style=flat-square"/></td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
@@ -271,31 +296,37 @@ const naeha = {
 
 ---
 
-## 💻 tech stack
+## 💻 Tech Stack
 
 <div align="center">
 
-**languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,c,cpp,html,css&theme=dark&perline=8"/>
+<!-- Category 1: Languages -->
+<p><b>🎀 Core Languages</b></p>
+<img src="https://skillicons.dev/icons?i=ts,js,python,c,java,html,css&theme=dark"/>
 
 <br/><br/>
 
-**frontend & backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,vite,sass,bootstrap&theme=dark&perline=8"/>
+<!-- Category 2: Frontend & Frameworks -->
+<p><b>🚀 Frontend & Web Frameworks</b></p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark"/>
 
 <br/><br/>
 
-**data & cloud**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase,aws,vercel,netlify,docker&theme=dark&perline=8"/>
+<!-- Category 3: Backend & Databases -->
+<p><b>⚙️ Backend, Systems & Databases</b></p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,supabase,firebase&theme=dark"/>
 
 <br/><br/>
 
-**creative & tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,blender,ae,git,vscode,postman&theme=dark&perline=8"/>
+<!-- Category 4: Cloud & Environments -->
+<p><b>☁️ Cloud & Environments</b></p>
+<img src="https://skillicons.dev/icons?i=vercel,git,github,linux,bash&theme=dark"/>
+
+<br/><br/>
+
+<!-- Category 5: Creative Suite & Tools (Untouched as requested) -->
+<p><b>🎨 Creative Suite & Workflow Tools</b></p>
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,blender,ae,vscode,postman&theme=dark"/>
 
 </div>
 
@@ -303,7 +334,7 @@ const naeha = {
 
 ---
 
-## 🧩 play with me
+## 🧩 Play With Me
 
 <div align="center">
 
@@ -312,10 +343,10 @@ const naeha = {
 
 <td align="center" valign="top" width="33%">
 
-**🧠 spot the bug**
+### 🧠 Spot The Bug
 
 <details>
-<summary>Round 1 · JS · <i>which line?</i></summary>
+<summary><b>Round 1 · JS · <i>Which line?</i></b></summary>
 <br/>
 
 ```js
@@ -329,7 +360,7 @@ const loadRoutes = async () => {
 </details>
 
 <details>
-<summary>Round 2 · JS · <i>what prints?</i></summary>
+<summary><b>Round 2 · JS · <i>What prints?</i></b></summary>
 <br/>
 
 ```js
@@ -340,7 +371,7 @@ for (var i = 0; i < 3; i++)
 </details>
 
 <details>
-<summary>Round 3 · CSS · <i>why won't it centre?</i></summary>
+<summary><b>Round 3 · CSS · <i>Why won't it centre?</i></b></summary>
 <br/>
 
 ```css
@@ -354,9 +385,9 @@ for (var i = 0; i < 3; i++)
 
 <td align="center" valign="top" width="33%">
 
-**⭕ tic-tac-toe**
+### ⭕ Tic-Tac-Toe
 
-you're **O** — it's your move!
+You're **O** — it's your move!
 
 ```
 X │ O │ X
@@ -366,15 +397,15 @@ O │ X │ ·
 · │ · │ O
 ```
 
-open an **Issue** titled `ttt: [square]`  
-(1–9, top-left → bottom-right)  
+Open an **Issue** titled `ttt: [square]`  
+*(1–9, top-left → bottom-right)*  
 I'll reply and update the board 🩷
 
 </td>
 
 <td align="center" valign="top" width="33%">
 
-**🟩 guess the language**
+### 🟩 Guess The Language
 
 ```
 🟨⬜⬜⬜⬜⬜
@@ -384,7 +415,7 @@ I'll reply and update the board 🩷
 ```
 
 <details>
-<summary><b>reveal ✨</b></summary>
+<summary><b>Reveal ✨</b></summary>
 <br/>
 <b>Rust</b> 🦀<br/>
 borrow checker · <code>cargo</code> · ownership · lifetimes · <code>Result&lt;T,E&gt;</code>
@@ -392,10 +423,10 @@ borrow checker · <code>cargo</code> · ownership · lifetimes · <code>Result&l
 
 <br/>
 
-**♟️ chess**
+### ♟️ Chess
 
-live board via [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess)  
-comment your move, bot plays back
+Live board via [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess)  
+Comment your move on the repo, a bot plays back!
 
 </td>
 
@@ -408,18 +439,30 @@ comment your move, bot plays back
 
 ---
 
-## 🗳️ vote on what I build next
+## 🗳️ Vote On What I Build Next
 
 <div align="center">
 
-React to this README with an emoji:
+<p><i>React to this README with an emoji to cast your vote!</i></p>
 
-| emoji | means |
-|:---:|---|
-| 🧠 | more Chatbridge — context, compression, handoffs |
-| 🚌 | more REC Transit — routes, real-time, notifications |
-| 🔐 | more crypto / zero-knowledge proofs |
-| 🎨 | more Blender / AR / Snap Spectacles |
+<table>
+  <tr>
+    <td align="center">🧠</td>
+    <td><b>More Chatbridge</b> — Context preservation, LLM handoffs & compression</td>
+  </tr>
+  <tr>
+    <td align="center">🚌</td>
+    <td><b>More REC Transit</b> — Live GPS campus route telemetry & notifications</td>
+  </tr>
+  <tr>
+    <td align="center">🔐</td>
+    <td><b>More Cryptography</b> — Zero-knowledge proof protocols & ciphers</td>
+  </tr>
+  <tr>
+    <td align="center">🎨</td>
+    <td><b>More 3D & AR</b> — Blender animations & Snap Spectacles AR lenses</td>
+  </tr>
+</table>
 
 </div>
 
@@ -427,16 +470,16 @@ React to this README with an emoji:
 
 ---
 
-## 🌸 let's connect
+## 🌸 Let's Connect
 
 <div align="center">
 
 <a href="https://linkedin.com/in/naeha-s">
-  <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" height="38"/>
 </a>
 &nbsp;
 <a href="mailto:naeha.s.2024.it@rajalakshmi.edu.in">
-  <img src="https://img.shields.io/badge/email_me-FF1493?style=for-the-badge&logo=gmail&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/Email_Me-FF1493?style=for-the-badge&logo=gmail&logoColor=white" height="38"/>
 </a>
 &nbsp;
 <a href="https://github.com/Naeha-S">
@@ -444,17 +487,17 @@ React to this README with an emoji:
 </a>
 &nbsp;
 <a href="https://instagram.com/YOUR_HANDLE">
-  <img src="https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white" height="38"/>
 </a>
 
 <br/><br/>
 
 > *"Code is like makeup — it should enhance, not overwhelm."*
 >
-> **— Naeha** 🩷
+> **— Naeha** 💖
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:FF69B4,100:FF00FF&height=130&section=footer&text=thanks%20for%20stopping%20by!&fontSize=22&fontColor=FFFFFF&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:FF69B4,100:FF00FF&height=130&section=footer&text=thanks%20for%20stopping%20by!%20%E2%9C%A8&fontSize=24&fontColor=FFFFFF&animation=twinkling" width="100%"/>
 
 </div>
