@@ -161,9 +161,9 @@ Tamil + English, offline-ready. No new data entry needed.
 <h4 id="snake-game">🐍 Retro Snake (Gliding over my contribution history)</h4>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naeha-S/Naeha-S/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naeha-S/Naeha-S/output/github-snake.svg"/>
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Naeha-S/Naeha-S/output/github-snake.svg" width="850"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg"/>
+  <img alt="GitHub Contribution Snake" src="./assets/github-snake.svg" width="850"/>
 </picture>
 
 </div>
